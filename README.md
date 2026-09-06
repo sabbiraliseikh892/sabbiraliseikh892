@@ -21,7 +21,7 @@ Email Me 👉 ✉️ **sabbir.comp@gmail.com** For Project or Anything Else. �
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=sabbiraliseikh892&theme=dark&hide_border=true&layout=compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sabbiraliseikh892&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sabbiraliseikh892&theme=dark)]
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sabbiraliseikh892&theme=radical&no-frame=false&no-bg=false&margin-w=4)
